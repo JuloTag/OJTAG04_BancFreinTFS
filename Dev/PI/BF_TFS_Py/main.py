@@ -1,3 +1,3 @@
-import Lib.window as 
+import Lib. as 
 print("coucou")
 win.FenetrePrincipal()
